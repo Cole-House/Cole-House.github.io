@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "Cole House",
         "url": "https://www.linkedin.com/in/cole-house-6b188722a/"
-      },
+      }
     ]
   },
   "interests": [
@@ -42,7 +42,7 @@
       "name": "Artificial Intelligence",
       "keywords": [
       ]
-    }
+    },
     {
       "name": "Web Application Developing",
       "keywords": [
