@@ -8,6 +8,9 @@ labels:
   - Learning
   - Goals
 ---
+
+<img class="ui medium right floated rounded image" src="/images/software.png">
+
 Where it all started
 
 Growing up I enjoyed most of my time running around outside playing soccer or just wreaking havoc in the neighborhood like all kids do. I enjoyed browsing the internet and  playing all sorts of games like the cartoon network games, congregate.com and also on my gameboy. These were the only electronic devices that mattered to me in that moment of time, but as I got older my eyes were opened to a new world of possibilities. Starting in high-school, I signed up for an elective called STEM which I thought would be more focused on Engineering and Math but instead it focused almost mainly on "coding" which was completely foreign to me. I really found a liking towards it and programming when I could see that with my laptop and problem solving skills I could make simple HTML websites and make them interactive with JavaScript... but this was just the tip of the Iceberg.
