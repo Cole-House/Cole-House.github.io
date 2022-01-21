@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Sudoku.png
+image: images/SudokuSuccess.png
 title: Sudoku Solver
 # All dates must be YYYY-MM-DD format!
 date: 2021-03-10
