@@ -2,24 +2,21 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Sudoku Solver
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-03-10
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Problem Solving
+summary: A Sudoku Solver Program built on Java.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/Sudoku.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This Program was made whilst I was in ICS 211 and is made to recursively solve even the most difficult sudoku puzzles.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The program works by going to a cell and using a function that returns an ArrayList of integers that are legal values in that cell, which means it will be a unique number in it's row, column, and 3 x 3 box. Using this information in my recurisve solveSudoku() funtion which also utilizes a recursive helper method which goes through each empty cell in the puzzle, in  each cell it is also calling another function that checks if the puzzle is solved or not. If the checkSudoku() function return negative it will proceed until it is finsihed and checkSudoku() returns true.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+The hardest parts I can remember from doing this project was the algorithm for checking the legal values of a cell in the 3 x 3 box, which seems pretty convoluted but I seemed to figure it out. Another aspect of this that was difficult was the concept of using my recursive method and also backtracking if there were no legal values for a cell and the code had to backtrack. Please feel free to view  the code for this project below.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+[Sudoku Solver](https://github.com/Cole-House/Sudoku-Solver/tree/main).
