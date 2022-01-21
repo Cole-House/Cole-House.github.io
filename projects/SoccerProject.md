@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/soccerball.jpg
+image: images/soccerball.png
 title: Japanese Soccer Team Clinic
 date: 2020-1-18
 labels:
