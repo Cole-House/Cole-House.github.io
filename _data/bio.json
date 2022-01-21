@@ -64,8 +64,8 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -73,26 +73,32 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Terminal",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "IntelliJ"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Fall, 2024)",
+      "studyType": "B.A.",
+      "startDate": "2020-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.5",
       "courses": [
+        "ICS 111 (Intro to Computer Science I)",
+        "ICS 141 (Discrete Math I)",
+        "ICS 211 (Intro to Computer Science II)",
+        "ICS 241 (Discrete Math II)",
+        "ICS 212 (Intro to C/C++ Programming)",
+        "ICS 241 (Discrete Math II)",
+        "ICS 314 (Software Engineering I)"
       ]
     }
   ],
-  "work": [
+  /*"work": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -144,19 +150,19 @@
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
-  ],
+  ],*/
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Manoa Merit Scholarship",
+      "date": "2020-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "FALL 2020 SPRING 2020",
+      "awarder": "University of Hawaii",
+      "summary": "Full-time Student earning 3.5 GPA or higher for those semesters"
     }
   ],
   "references": [
