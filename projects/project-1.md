@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/bankFront.jpg
 title: Bank Record Program
 date: 2021-11-28
 labels:
