@@ -5,7 +5,7 @@ image: images/bankFront.jpg
 title: Bank Record Program
 date: 2021-11-28
 labels:
-  - Uinx
+  - Unix
   - User Interface
   - C++
 summary: I built a simple mock banking program with C++ ran on terminal
