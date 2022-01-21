@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/soccerball.png
 title: Japanese Soccer Team Clinic
-date: 2020-1-18
+date: 2020-01-18
 labels:
   - Volunteer
   - Community
