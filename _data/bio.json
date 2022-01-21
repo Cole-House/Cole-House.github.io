@@ -2,7 +2,7 @@
   "basics": {
     "name": "Cole House",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://Cole-House.github.io/images/cole.jpg",
     "email": "coleh3@hawaii.edu",
     "phone": "808-227-3755",
     "website": "https://Cole-House.github.io",
@@ -44,10 +44,16 @@
       ]
     },
     {
-      "name": "Web Application Developing",
+      "name": "Web Applications",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Sports and Wellness",
       "keywords": [
       ]
     }
+    
   ],
   "skills": [
     {
