@@ -21,12 +21,16 @@
         "url": "https://Cole-House.github.io"
       },
       {
+        "network": "email",
+        "username": "ckmhouse.808@gmail.com",
+        "url": ""
+      },
+      {
         "network": "linkedin",
         "username": "Cole House",
         "url": "https://www.linkedin.com/in/cole-house-6b188722a/"
       }
-    ]
-  },
+    ],
   "interests": [
     {
       "name": "Software Engineering",
