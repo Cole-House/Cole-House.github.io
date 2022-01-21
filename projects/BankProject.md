@@ -11,7 +11,6 @@ labels:
 summary: I built a simple mock banking program with C++ ran on terminal
 ---
 
-
 <img class="ui medium right floated rounded image" src="/images/bankUI.png">
 
 I solely worked on this project for my ICS 212 Programming class, where we used C in the beginning and then converted to C++ near the end of the semester, which they worked relatively the same with a few caveats. In the class we were also introduced to the concept of unix and working on a program stored on a remote server on campus rather our local operating system and we accessed the unix through terminal. This program was made with the VI text editing software and the project was built in two parts, the first being the user-interface and then the backend database.
