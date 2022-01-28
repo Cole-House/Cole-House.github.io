@@ -2,11 +2,11 @@
 layout: essay
 type: essay
 title: Smarter Questions lead to Smarter Answers
-date: 2022-01-20
+date: 2022-01-27
 labels:
-  - Software Engineering
-  - Learning
-  - Goals
+  - Critical Thinking
+  - Analysis
+  - Collaborative
 ---
 
 <img class="ui medium left floated image" src="/images/brain.png">
