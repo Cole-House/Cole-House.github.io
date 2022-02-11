@@ -9,11 +9,13 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui medium right floated rounded image" src="/images/software.png">
+<img class="ui medium right floated rounded image" src="/images/codingStandard.png">
 
 <h2> Makes Life Easier </h2>
 
 In our early budding careers as computer scientists, we've all been bound to encounter those dreaded red and yellow error messages that give us so much strife but also a sense of sanity when we are able to identify where the error is occurring. This sanity can easily come from the result of practicing coding standards in our programming to help identify syntax errors and so much more. Before getting into the benefits, first let's cover what coding standards even are. Coding standards are basically a set of rules and guidelines that dictate formatting, structuring and work environment capabilities when it comes to coding. It has become more familiar to us from using it constantly with the many various types of coding design. What's nice about coding standards are flexible and can be configured in ways that suit the task at hand the best, how the programmers codes or even a combination of both, making doing standards available for everyone!
+
+<img class="ui medium left floated rounded image" src="/images/esLint.png">
 
 <h2> Programmer Friendly </h2>
 
@@ -23,4 +25,6 @@ While we may not love standardized testing, standardized coding had more of an a
 
 Along with providing structure, catching errors and reducing complexity of the program with better practices, coding standards do wonders for collaboration. When something coding style is standardized this brings familiarity to other programmers when they are looking at someone else's code and understand it knowledgeably. Coding guidelines like indentation, naming conventions and detailed commenting help boost readability and understanding which ultimately boosts the efficiency of the software and team developing it. This was probably one of the biggest benefits that coding standards offer because of how it's enhanced collaboration and efficiency for the whole world and helped produce a lot of what we know today.
 
-Source of cover [image]("https://www.google.com/search?q=software+engineering&sxsrf=APq-WBvHd0ToCIQSYd4ua73fCQWBRIxY3w:1643341742734&source=lnms&tbm=isch&sa=X&ved=2ahUKEwisv8eGxdP1AhU3KEQIHdl8BtsQ_AUoAnoECAEQBA&biw=1309&bih=595&dpr=2.2#imgrc=fZSs6hz--TI1sM").
+Source of first [image]("https://www.google.com/search?q=coding+standards&sxsrf=APq-WBu_8Qrwfuwf_Wmnb5_dvD4LG15cMQ:1644576805844&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwjeocWCvvf1AhViFjQIHQVBC7gQ_AUoAXoECAEQAw&biw=1309&bih=595&dpr=2.2#imgrc=oTbsxPl55F9R1M").
+
+Source for second [image]("https://www.google.com/search?q=eslint&sxsrf=APq-WBsfqEQSaECAkVV9VGgSngpWhzh1Aw:1644578616866&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiojo3ixPf1AhX1DkQIHXmmB54Q_AUoBHoECAIQBg&biw=1309&bih=595&dpr=2.2#imgrc=ksnD6-Wfinw_wM").
