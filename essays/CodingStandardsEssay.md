@@ -2,23 +2,25 @@
 layout: essay
 type: essay
 title: Building from the base up
-date: 2022-01-20
+date: 2022-02-10
 labels:
-  - Software Engineering
   - Learning
-  - Goals
+  - Coding Standards
+  - Software Engineering
 ---
 
 <img class="ui medium right floated rounded image" src="/images/software.png">
 
-<h2> Where it all began </h2>
+<h2> Makes Life Easier </h2>
 
-Growing up I enjoyed most of my time running around outside playing soccer or just wreaking havoc in the neighborhood like all kids do. I enjoyed browsing the internet and  playing all sorts of games like the cartoon network games, congregate.com and also on my gameboy. These were the only electronic devices that mattered to me in that moment of time, but as I got older my eyes were opened to a new world of possibilities. Starting in high-school, I signed up for an elective called STEM which I thought would be more focused on Engineering and Math but instead it focused almost mainly on "coding" which was completely foreign to me. I really found a liking towards it and programming when I could see that with my laptop and problem solving skills I could make simple HTML websites and make them interactive with JavaScript... but this was just the tip of the Iceberg.
+In our early budding careers as computer scientists, we've all been bound to encounter those dreaded red and yellow error messages that give us so much strife but also a sense of sanity when we are able to identify where the error is occuring. This sanity can easily come from the result of practicing coding standards in our programming to help identify syntax errors and so much more. Before getting into the benefits, first let's cover what coding standards even are. Coding standards are basically a set of rules and guidelines that dictate formatting, structuring and work environment capabilites when it comes to coding. It has become more familiar to us from using it constantly with the many various types of coding design. What's nice about coding standards are flexible and can be configured in ways that suit the task at hand the best, how the programmers codes or even a combination of both, making doing standards available for everyone!
 
-<h2> What's Next? </h2>
+<h2> Programmer Friendly </h2>
 
-As I quickly came to understand through my first year and a half as a Computer Science Major with technology constantly on the rise the field is vast and growing, practically touching upon every industry there is. Having made simple programs in Java and C which took quite some time to understand and implement, I always think of the various applications, websites, and softwares I use on the daily and how those are made by a team spending countless hours of work and writing hundreds of thousands lines of code all to make something that can be used by people worldwide and functions properly. Creating applications or programs that provide use to real world problems and issues inspire me as a Computer Science student.
+While we may not love standardized testing, standardized coding had more of an appeal and can be a programmer's best friend. The relationship bewteen you and your buddy, coding standrads, can start off a bit awkward with you two at first but with more experience you get the feel of it a lot more and start to recognize the benefits of it. With standards it assures that the code that is written follows a certian structure and set of rules meant to improve readibility in your code and prevent bad practices in code while encouraging better ones. With the encouragement of good practices allows the program to be less convoluted and easier to understand for new programmers of the language trying to get a grasp.  
 
-My hopes for this semester is to apply what I learn in class to build a project that I can add to my portfolio, and feel good about. This project is still yet to be determined but it with time it will hone my skills as a programmer, practicing what I learn in class and also pushing me to problem solve with independent studying. Looking at the modules to come, I am excited to be introduced to a bunch of new frameworks like React, Meteor, MongoDB and also learn how to use them and what I can make with them. I don't know if we will be exposed to API's but those peak my interest as well. With this class I hop to build upon my foundation in programming, coding, and problem solving so I can find my niche that I am genuinely interested in and helps make a mark on the world.
+<h2> Helps Achieve Greatness </h2>
+
+Along with providing structure, catching errors and reducing complexity of the program with better practices, coding standards do wonders for collaboration. When something coding style is standardized this brings familiarity to other programmers when they are looking at someone else's code and understand it knowledgably. Coding guidelines like identation, naming conventions and detailed commenting help boost readability and understanding which ultimately boosts the efficiency of the software and team developing it. This was probably one of the biggest benefits that coding standards offer because of how it's enhanced collaboration and efficiency for the whole world and helped produce a lot of what we know today.
 
 Source of cover [image]("https://www.google.com/search?q=software+engineering&sxsrf=APq-WBvHd0ToCIQSYd4ua73fCQWBRIxY3w:1643341742734&source=lnms&tbm=isch&sa=X&ved=2ahUKEwisv8eGxdP1AhU3KEQIHdl8BtsQ_AUoAnoECAEQBA&biw=1309&bih=595&dpr=2.2#imgrc=fZSs6hz--TI1sM").
