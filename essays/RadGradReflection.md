@@ -9,7 +9,7 @@ labels:
   - Goals
 ---
 
-<img class="ui medium right floated rounded image" src="/images/software.png">
+<img class="ui medium right floated rounded image" src="/images/rad.png">
 
 <h2> A Rad Tool </h2>
 
