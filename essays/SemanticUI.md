@@ -2,23 +2,27 @@
 layout: essay
 type: essay
 title: Semantic helps U and I Succeed
-date: 2022-01-20
+date: 2022-02-24
 labels:
-  - Software Engineering
-  - Learning
-  - Goals
+  - Web Developing
+  - Frameworks
+  - User Interface
 ---
 
-<img class="ui medium right floated rounded image" src="/images/software.png">
+<img class="ui centered image" src="/images/software.png">
 
-<h2> Where it all began </h2>
+<h2> Importance of frameworks </h2>
 
-Growing up I enjoyed most of my time running around outside playing soccer or just wreaking havoc in the neighborhood like all kids do. I enjoyed browsing the internet and  playing all sorts of games like the cartoon network games, congregate.com and also on my gameboy. These were the only electronic devices that mattered to me in that moment of time, but as I got older my eyes were opened to a new world of possibilities. Starting in high-school, I signed up for an elective called STEM which I thought would be more focused on Engineering and Math but instead it focused almost mainly on "coding" which was completely foreign to me. I really found a liking towards it and programming when I could see that with my laptop and problem solving skills I could make simple HTML websites and make them interactive with JavaScript... but this was just the tip of the Iceberg.
+  Are you tired of spending countless hours manually editing your HTML and CSS files, modifying the padding and margin of each div class just to end up with a less than stellar result? If so, using a UI framework such as Semantic UI would be advisable. But first, what even is a UI framework? UI framework stands for User Interface framework and as the name suggests deals with the front-end of a webpage that interacts with users. A UI framework offers the user a collection of classes and interfaces in CSS to help guide developers in structuring their webpages. With the help of UI frameworks you are able to save time by using the structures it gives you with classes and simplifies your development process. Semantic UI does an exceptional job at this with classes such as containers, grids, menus, icons, and different modules all with different variations to make the presentation and functionality of your page  more customizable and have a sleek look.
 
-<h2> What's Next? </h2>
+<h2> My Experience with Semantic UI </h2>
 
-As I quickly came to understand through my first year and a half as a Computer Science Major with technology constantly on the rise the field is vast and growing, practically touching upon every industry there is. Having made simple programs in Java and C which took quite some time to understand and implement, I always think of the various applications, websites, and softwares I use on the daily and how those are made by a team spending countless hours of work and writing hundreds of thousands lines of code all to make something that can be used by people worldwide and functions properly. Creating applications or programs that provide use to real world problems and issues inspire me as a Computer Science student.
+  While I have only said good things about UI frameworks thus far, I must say you can feel quite lost on how to correctly utilize the tools at first. My experience with Semantic UI started off a little rocky when I attempted to clone a webpage online with my own HTML and CSS while implementing what I learned about using the Semantic UI framework. It felt like I had a toolbox full of useful tools, but I would grab the wrong tool or just use it in the completely wrong way. Prior to attempting to clone I got to get a little taste of the power Semantic UI possessed through guided practice, but ultimately still confused on which classes from the framework to use and where. The sheer amount of classes and capabilities Semantic UI came with was exciting but was  also a bit overwhelming. 
+	
+	With a simple web page to replicate I was able to complete the task to the best of my abilities with Semantic UI by referring back to other similar code I had and also looking through the Semantic UI documentation with all the different classes and variations proved very useful. Speaking of variations, I found it very cool how you can essentially find the general style of the element you want to add and style it with a few descriptive words in the element’s class. For example you could have your <a style="color:dark blue;">class=”ui menu”</a> but you may want it to have no borders and be formatted for text content so you add a few words to your class so it says <a style="color:dark blue;">class=”ui borderless text menu”</a> and voila you get what you’re looking for. That’s the real magic of using the Semantic UI framework or any framework, it simplifies the design process for developing beautiful web pages. 
+  
+  <img class="ui centered image" src="/images/HSA.png">
+  *this was my recreation of the Hawaii Surf Academy Home Page*
+  
+  I felt like this was the most fun section for me so far to learn because all my experience with web designing has been using raw HTML and CSS which was the best I knew how to do and required a lot more coding relative to me coding with the Semantic UI framework. With that being said Semantic was a game changer and a step up from coding in raw HTML and laying words out on the screen which requires a lot more tedious attention to detail and TIME! Not only are you saving time and developing more efficiently but a visually appealing UI can bolster a page's credibility and user interest, and the frameworks help you do that. I feel like learning how to use UI frameworks is a good skill to improve on for the future and it is fun to see your work come to life!
 
-My hopes for this semester is to apply what I learn in class to build a project that I can add to my portfolio, and feel good about. This project is still yet to be determined but it with time it will hone my skills as a programmer, practicing what I learn in class and also pushing me to problem solve with independent studying. Looking at the modules to come, I am excited to be introduced to a bunch of new frameworks like React, Meteor, MongoDB and also learn how to use them and what I can make with them. I don't know if we will be exposed to API's but those peak my interest as well. With this class I hop to build upon my foundation in programming, coding, and problem solving so I can find my niche that I am genuinely interested in and helps make a mark on the world.
-
-Source of cover [image]("https://www.google.com/search?q=software+engineering&sxsrf=APq-WBvHd0ToCIQSYd4ua73fCQWBRIxY3w:1643341742734&source=lnms&tbm=isch&sa=X&ved=2ahUKEwisv8eGxdP1AhU3KEQIHdl8BtsQ_AUoAnoECAEQBA&biw=1309&bih=595&dpr=2.2#imgrc=fZSs6hz--TI1sM").
