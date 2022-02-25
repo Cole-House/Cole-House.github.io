@@ -9,8 +9,6 @@ labels:
   - User Interface
 ---
 
-<img class="ui centered image" src="/images/software.png">
-
 <h2> Importance of frameworks </h2>
 
   Are you tired of spending countless hours manually editing your HTML and CSS files, modifying the padding and margin of each div class just to end up with a less than stellar result? If so, using a UI framework such as Semantic UI would be advisable. But first, what even is a UI framework? UI framework stands for User Interface framework and as the name suggests deals with the front-end of a webpage that interacts with users. A UI framework offers the user a collection of classes and interfaces in CSS to help guide developers in structuring their webpages. With the help of UI frameworks you are able to save time by using the structures it gives you with classes and simplifies your development process. Semantic UI does an exceptional job at this with classes such as containers, grids, menus, icons, and different modules all with different variations to make the presentation and functionality of your page  more customizable and have a sleek look.
