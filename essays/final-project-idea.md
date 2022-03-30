@@ -28,7 +28,7 @@ As a user of the web app you can:
 - View other user’s Bios
 - View meetups you plan on attending
 
-There will also be an option to login as an “Organizer”, and as an “Organizer” you have the capabilities to:
+There will also be an option to login as an “Organiser”, and as an “Organiser” you have the capabilities to:
 - View all meetups
 - Post meetup for users to view and attend
 - Edit/Cancel your posted meetups 
@@ -46,10 +46,13 @@ Some Mockup Pages include:
 
 
 <h2> Use Cases </h2>
+
 Student:
 - Arrive on landing page, login as student, click on meetups for interest, post a question, and click on "attending"
 - Arrive on landing page, login as student, click on meetups you are "attending", view other attendee's BIO through the meetup display page
 - Arrive on landing page, login as student, edit bio
+
+
 Organiser:
 - Arrive on landing page, login as Organiser, view meetups in different catergories, post meetup
 - Arrive on landing page, login as Organiser, view meetups you Organised, answer a question posted on your meetup
