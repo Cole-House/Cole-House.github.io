@@ -4,7 +4,8 @@ type: essay
 title: Design Patterns 101
 date: 2022-04-28
 labels:
-  - JavaScript
+  - Design Patterns
+  - Softawre Design
   - Learning
 ---
 
