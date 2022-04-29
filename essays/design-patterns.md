@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium right floated rounded image" src="/images/computer.png">
+<img class="ui medium right floated rounded image" src="/images/cogs.png">
 
 <h2> Design Patterns for Dummies </h2>
 
@@ -22,5 +22,8 @@ labels:
 <h2> Looking Back </h2>
 
   In my early journey as a budding programmer and aspiring software engineer I have used some of these design patterns without even knowing it. From what I remember I have used a Singleton class before to create a class representing the sky, where the Singleton pattern ensures that there would only be one instance of the sky which is realistic! These singleton classes are similar to global variables where you access this instance from anywhere in the program. Thinking back on it I have used many of the creational patterns such as the Factory method when using superclasses, Abstract Factory method using abstract classes, and what we have been using the Prototype pattern all semester on GitHub through cloning of repositories onto our local computers. These are all excellent concepts that when put into practice made the process of object creation much easier by reusing code that was already written. Some behavioral patterns I remember encountering are the Iterator pattern when I used iterators to iterate over various data structures, and with Semantic UI I wanted to implement a Modal and this required using the State pattern since the Modal had different internal state changes. I feel as if I am just at the tip of the design pattern iceberg and I can’t wait to grasp an even better understanding of them! Seeing as I am a novice when it comes to design patterns I felt like the resources I used below were super helpful, especially refactoring.guru which I suggest checking out.
+  
+  
+Sources for info: 
 
  
