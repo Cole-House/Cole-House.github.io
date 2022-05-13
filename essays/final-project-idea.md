@@ -1,13 +1,13 @@
----
-layout: 
-type: 
+
+layout: essay 
+type: essay
 title: Final Project Idea
 date: 2022-03-29
 labels:
   - Development
   - Web Application
   - Meteor
----
+
 Group: Kobey Arai, Nika Yadav, Yong-Sung Masuda, Cole House
 
 <h2> Overview </h2>
