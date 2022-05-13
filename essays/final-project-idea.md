@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: 
 title: Final Project Idea
 date: 2022-03-29
 labels:
