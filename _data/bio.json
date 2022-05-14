@@ -71,6 +71,9 @@
         "Javascript",
         "Python",
         "HTML",
+        "Semantic UI React",
+        "Meteor",
+        "Mongo DB",
         "CSS"
       ]
     },
@@ -80,17 +83,30 @@
       "keywords": [
         "MacOS",
         "Terminal",
-        "Git/GitHub",
+        "GitHub Desktop",
         "IntelliJ"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Beginner/Intermediate",
+      "keywords": [
+        "(Using)",
+        "Agile Project Managment",
+        "Github Branching and Merging",
+        "IntelliJ",
+        "Semantic UI React",
+        "Meteor"
       ]
     },
     {
       "name": "Soft Skills",
       "level": "",
       "keywords": [
-        "Communication with others",
-        "Socially Perceptive",
+        "Efficient Communication with others",
+        "Agile Project Management",
         "Adapt to diverse groups of people"
+        
       ]
     }
   ],
