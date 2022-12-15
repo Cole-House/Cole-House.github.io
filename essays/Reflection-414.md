@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ICS 414: Taking it all in
+title: ICS 414 ~ Taking it all in
 labels:
   - Software Engineering
   - Learning
